@@ -1,0 +1,2 @@
+rootProject.name = "LeanerLayout"
+include ':app'
